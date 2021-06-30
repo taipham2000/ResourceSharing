@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/SE06D/J3.L.P0016/web/error.jsp</file>
+            <file>file:/C:/SE06D/J3.L.P0016/web/History.jsp</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/dto/User.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/dao/BorrowDetailDao.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/servlet/SearchController.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/servlet/CartController.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/dao/HistoryDao.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/servlet/MainController.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/dto/MyConstant.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/web/CheckOutSuccess.jsp</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/dto/History.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/servlet/SignUpController.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/web/index.jsp</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/servlet/ViewRequestController.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/dto/BorrowDetail.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/servlet/LoginController.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/web/SignUp.jsp</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/dao/BorrowDao.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/servlet/HistoryController.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/servlet/AcceptRequestController.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/web/ViewRequest.jsp</file>
+            <file>file:/C:/SE06D/J3.L.P0016/web/ViewOrder.jsp</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/utils/DBUItis.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/servlet/ProductController.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/dto/Cart.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/dao/ProductDao.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/web/Login.jsp</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/dto/VerifyUtils.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/web/ShowCart.jsp</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/servlet/BookingController.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/dto/Borrow.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/servlet/LogoutController.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/src/java/dao/UserDao.java</file>
+            <file>file:/C:/SE06D/J3.L.P0016/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
