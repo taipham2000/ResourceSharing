@@ -1,12 +1,14 @@
 ### Welcome to Resource_Sharing
 
+![GitHub top language](https://img.shields.io/github/languages/top/taipham2000/ResourceSharing?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/taipham2000/ResourceSharing?style=plastic)
+![Github repo size](https://img.shields.io/github/repo-size/taipham2000/ResourceSharing)
+
 ### You will find in this repo the following stuff: 
 
 * This repo has a basic project about Java-Web
 
 * Techs: Java EE 8,SQLServer, MVC, NetBeans8.2
 
-* ![GitHub top language](https://img.shields.io/github/languages/top/taipham2000/ResourceSharing?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/taipham2000/ResourceSharing?style=plastic)
 
 ## Have fun with my code and feel free to give me any comments
 
