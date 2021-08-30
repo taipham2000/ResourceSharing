@@ -9,6 +9,13 @@
 
 * Techs: Java EE 8,SQLServer, MVC, NetBeans8.2
 
+### Project functions include:
+- Booking
+- CRUD product
+- Recaptcha authentication
+- Store database on amazon
+- Paging
+- User and admin account roles...
 
 ## Have fun with my code and feel free to give me any comments
 
